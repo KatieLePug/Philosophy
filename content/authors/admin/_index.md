@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Katie Carpenter
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Katie
+last_name: Carpenter
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Philosophy PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: 
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,23 +47,23 @@ profiles:
     url: https://orcid.org/
 
 interests:
+  - Philosophy of Mind and Metaphysics
+  - Consciousness and the Self
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+  - area: PhD (expected in 2026)
+    institution: Princeton University
+    date_start: 
+    date_end: 
+    summary: 
+      
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
+  - area: 
+    institution: University of Texas at Austin
+    date_start: 
     date_end: 2020-12-31
     summary: |
       GPA: 3.8/4.0
@@ -72,12 +72,12 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BA Philosophy
+    institution: 
+    date_start: 
+    date_end: 
     summary: |
-      GPA: 3.4/4.0
+      GPA: 
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student of philosophy at Princeton University. My primary research interests include philosophy of mind and metaphysics with a focus on consciousness and the self. My work is emprically informed and draws on philosophical contributions from analytic philosophy, phenomenology, and Indian philosophy. I have many side research interests including artificial intelligence, feminist philosophy, social metaphysics, collective action, metaethics, and the philosophy of love. 
